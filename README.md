@@ -1,4 +1,10 @@
-# Coding Exercise
+
+#Completed exercise 4 and 5
+
+
+
+
+#Coding Exercise
 
 ## General Instructions
 1. Fully review the instructions for all exercises before beginning.
